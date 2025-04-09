@@ -274,3 +274,27 @@
 
 - 1708424012 [Welcome to Instapaper!](http://blog.instapaper.com/private/96972159656/tumblr_nbl6hkJTN31qz8fxi)
 
+- 1765714307 [Normie Macdonald on Substack](https://substack.com/@swengdad/note/c-105969715)
+
+- 1763630206 [Make Something Heavy](https://www.workingtheorys.com/p/make-something-heavy)
+
+- 1764038280 [Coby Dolloff on Substack](https://substack.com/@cobydolloff/note/c-103997259)
+
+- 1764038934 [Dump your matcha and have a cigarette, bitch](https://bysarahnoack.substack.com/p/dump-your-matcha-and-have-a-cigarette)
+
+- 1764043948 [Leonard Morton on Substack](https://substack.com/@leonardmorton/note/c-103830998)
+
+- 1764045707 [Ben Strak on Substack](https://substack.com/@designlobster/note/c-104037081)
+
+- 1764045902 [Love your tools](https://index.repponen.com/p/love-your-tools)
+
+- 1764046506 [Alex Dobrenko` on Substack](https://substack.com/@alexdobrenko/note/c-104038501)
+
+- 1764519916 [The 500 Million Worker Problem](https://indiadispatch.com/p/the-500-million-worker-problem)
+
+- 1766141574 [Chloe on Substack](https://substack.com/@reveriesinthewarren/note/c-106441589)
+
+- 1766154858 [Welcome to LessWrong! — LessWrong](https://www.lesswrong.com/posts/bJ2haLkcGeLtTWaD5/welcome-to-lesswrong)
+
+- 1766172047 [Against podcasts — LessWrong](https://www.lesswrong.com/posts/bgu4qkr6KjkA6unbZ/against-podcasts)
+

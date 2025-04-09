@@ -9,6 +9,9 @@ jobs:
     strategy:
       matrix:
         go-version: ['1.22.x']
+    defaults:
+      run:
+        working-directory: instapaper-backup-go
     steps:
       - uses: actions/checkout@v4
       - name: Setup Go ${{ matrix.go-version }}
@@ -18,5 +21,17 @@ jobs:
       # You can test your matrix by printing the current Go version
       - name: Display Go version
         run: go version
-        
+
+      - name: Install dependencies
+        run: |
+          go get .
+
+      - name: Build
+        run: go build -v 
+
+      - name: Run
+        run: ./instapaper-backup-go
+
+      - name: Cleanup
+        run: rm instapaper-backup-go
 
