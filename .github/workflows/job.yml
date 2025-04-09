@@ -31,6 +31,11 @@ jobs:
 
       - name: Run
         run: ./instapaper-backup-go
+        env:
+          INSTAPAPER_KEY: ${{ secrets.INSTAPAPER_KEY }}
+          INSTAPAPER_SECRET: ${{ secrets.INSTAPAPER_SECRET }}
+          INSTAPAPER_USERNAME: ${{ secrets.INSTAPAPER_USERNAME }}
+          INSTAPAPER_PASSWORD: ${{ secrets.INSTAPAPER_PASSWORD }}
 
       - name: Cleanup
         run: rm instapaper-backup-go
