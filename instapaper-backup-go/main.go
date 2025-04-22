@@ -210,7 +210,6 @@ func main() {
 					Url:   bookmark.Url,
 					Title: bookmark.Title,
 				}
-				
 				// Write to markdown file
 				fmt.Fprintf(markdownFile, "- %d [%s](%s)\n\n", bookmark.BookmarkId, bookmark.Title, bookmark.Url)
 				newBookmarksCount++
