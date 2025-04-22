@@ -37,6 +37,14 @@ jobs:
           INSTAPAPER_USERNAME: ${{ secrets.INSTAPAPER_USERNAME }}
           INSTAPAPER_PASSWORD: ${{ secrets.INSTAPAPER_PASSWORD }}
 
+      - name: Commit and push changes
+        run: |
+          cd ..
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Instapaper backup [skip ci]" && git push)
+
       - name: Cleanup
         run: rm instapaper-backup-go
 
