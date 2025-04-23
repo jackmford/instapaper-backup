@@ -3,13 +3,12 @@ DIST_DIR = dist
 all: clean run
 
 clean:
-	rm -rf $(DIST_DIR)
+	rm -f run
 
-build:
-	mkdir $(DIST_DIR)/
-	go build -v -o $(DIST_DIR)/run
+build: clean
+	go build -v -o run
 
 run: build
-	./$(DIST_DIR)/run
+	./run
 
 .PHONY: clean build run all
