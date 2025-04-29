@@ -8,6 +8,7 @@ import (
 	"net/url"
 	"os"
 	"strings"
+	"time"
 
 	"github.com/dghubble/oauth1"
 )
@@ -227,6 +228,8 @@ func main() {
 		panic(err)
 	}
 
+	dt := time.Now()
+	fmt.Printf("%s\n", dt.Format("01-02-2006 15:04:05"))
 	fmt.Printf("Added %d new bookmarks to library\n", newBookmarksCount)
 	fmt.Printf("Total bookmarks in library: %d\n", len(library.Bookmarks))
 }
