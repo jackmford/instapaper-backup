@@ -334,3 +334,21 @@
 
 - 1708424012 [Welcome to Instapaper!](http://blog.instapaper.com/private/96972159656/tumblr_nbl6hkJTN31qz8fxi)
 
+- 1768358875 [The Fuck Rate is about to Implode](https://brighteyes.substack.com/p/the-fuck-rate-is-about-to-implode)
+
+- 1769621918 [In Which I Declare War On Beloved Entertainer Bo Burnham](https://jasonpargin.substack.com/p/in-which-i-declare-war-on-beloved)
+
+- 1769624582 [Compliance is the New American Dream](https://kyla.substack.com/p/compliance-is-the-new-american-dream)
+
+- 1769624905 [The Internet is Rented Land](https://dylanhattem.substack.com/p/the-internet-is-rented-land)
+
+- 1769007593 [Embracing Functional Simplicity](https://shallowbrooksoftware.com/posts/embracing-functional-simplicity/)
+
+- 1770108486 [Impact, agency, and taste](https://www.benkuhn.net/impact/)
+
+- 1771146921 [The death of the public intellectual](https://open.substack.com/pub/thedigitalmeadow/p/the-death-of-the-public-intellectual?r=h787v&utm_medium=ios)
+
+- 1771627271 [Lawson Chapman on Substack](https://substack.com/@lawsonchapman/note/c-113197479?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1772463010 [Playing in the Creek — LessWrong](https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek)
+
