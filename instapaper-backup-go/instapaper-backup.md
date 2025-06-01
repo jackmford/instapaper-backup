@@ -352,3 +352,105 @@
 
 - 1772463010 [Playing in the Creek — LessWrong](https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek)
 
+- 1768472107 [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
+
+- 1769295945 [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices?utm_source=tldrnewsletter)
+
+- 1771146618 [The Relationship Between Humans and Humanlike Technology Is Getting Weird(er)](https://open.substack.com/pub/braunandbrains/p/the-relationship-between-humans-and?r=h787v&utm_medium=ios)
+
+- 1771146837 [Bottoms-up GTM: A framework for product-led growth](https://open.substack.com/pub/clairebutler/p/bottoms-up-gtm-a-framework-for-product?r=h787v&utm_medium=ios)
+
+- 1771323276 [I use Zip Bombs to Protect my Server](https://idiallo.com/blog/zipbomb-protection)
+
+- 1772684935 [Data Strategy for SREs and Observability Teams](https://www.honeycomb.io/blog/data-strategy-sre-observability-teams)
+
+- 1772934862 [Weekly Pickups: Sour sweets, instant coffee, and more...](https://open.substack.com/pub/expresscheckout/p/weekly-pickups-sour-sweets-instant?r=h787v&utm_medium=ios)
+
+- 1772934981 [Late Night Designer #000](https://open.substack.com/pub/asekachov/p/late-night-designer-000?r=h787v&utm_medium=ios)
+
+- 1772935137 [The Culturist on Substack](https://substack.com/@culturist/note/c-114202097?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1773062417 [The magic of software; or, what makes a good engineer also makes a good engineering organization](https://moxie.org/2024/09/23/a-good-engineer.html)
+
+- 1773135343 [The Most Valuable Commodity in the World is Friction](https://open.substack.com/pub/kyla/p/the-most-valuable-commodity-in-the?r=h787v&utm_medium=ios)
+
+- 1773344057 [ryOS](https://os.ryo.lu/)
+
+- 1773397781 [Britain’s most remote mainland pub is well worth the two-day hike](https://www.nationalgeographic.com/travel/article/the-old-forge-inverie-knoydart-scotland)
+
+- 1773550537 [Things We Can’t Replace](https://lindynewsletter.beehiiv.com/p/things-we-can-t-replace)
+
+- 1773556989 [The future of sustainable travel - Luna Rail](https://luna-rail.com/en/home)
+
+- 1773577690 [Shit’s Gonna Get So Fucking Weird and Terrible](https://open.substack.com/pub/sonderuncertainly/p/shits-gonna-get-so-fucking-weird?r=h787v&utm_medium=ios)
+
+- 1774019478 [Monitoring Minecraft with OpenTelemetry · Blog · Dash0](https://www.dash0.com/blog/monitoring-minecraft-with-opentelemetry)
+
+- 1774676240 [Gen Z Isn't Drinking the Kool-Aid](https://open.substack.com/pub/katewhalen/p/gen-z-doesnt-drink-the-kool-aid?r=h787v&utm_medium=ios)
+
+- 1774735834 [LLMs are Making Me Dumber](https://vvvincent.me/llms-are-making-me-dumber/)
+
+- 1774949681 [The Joy Is Not Optional](https://open.substack.com/pub/aella/p/the-joy-is-not-optional?r=h787v&utm_medium=ios)
+
+- 1775140554 [Thinking is being outsourced to AI](https://open.substack.com/pub/newmeans/p/thinking-is-being-outsourced-to-ai?r=h787v&utm_medium=ios)
+
+- 1775140716 [Here’s Hannah on Substack](https://substack.com/@heyhereshannah/note/c-117422908?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1775144982 [this is what 80 looks like.](https://open.substack.com/pub/themolehill/p/this-is-what-80-looks-like?r=h787v&utm_medium=ios)
+
+- 1775145196 [THE RECIPE INDEX - How I Cook](https://open.substack.com/pub/benlippett/p/the-recipe-index?r=h787v&utm_medium=ios)
+
+- 1775145452 [Philip Elliott on Substack](https://substack.com/@philipelliott/note/c-117302010?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1775192969 [Personality and Persuasion](https://open.substack.com/pub/oneusefulthing/p/personality-and-persuasion?r=h787v&utm_medium=ios)
+
+- 1775518923 [Why Apple Still Hasn’t Cracked AI](https://www.bloomberg.com/news/features/2025-05-18/how-apple-intelligence-and-siri-ai-went-so-wrong)
+
+- 1775519318 [The Curse of Knowing How, or; Fixing Everything | Blog](https://notashelf.dev/posts/curse-of-knowing?utm_source=tldrnewsletter)
+
+- 1775519407 [Exclusive: InventWood is about to mass produce wood that’s stronger than steel | TechCrunch](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
+
+- 1775519553 [Spaced Repetition Systems Have Gotten Way Better](https://domenic.me/fsrs/)
+
+- 1775899671 [How Fantasy Literature Lost its Soul](https://substack.com/home/post/p-148671005)
+
+- 1776033423 [AA on Substack](https://substack.com/@theisleofman/note/c-113325619?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1776040346 [Why Substack will be the intellectual engine of the 21st century](https://www.freethink.com/artificial-intelligence/the-great-progression-substack)
+
+- 1776065101 [Austin Winfield on Substack](https://substack.com/@midcenturymondays/note/c-118702888?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1776083549 [Vanechka on Substack](https://substack.com/@vanyabagaev/note/c-118786645?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1776084297 [Dr. Julie Gurner on Substack](https://substack.com/@drgurner/note/c-118920707?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1776153991 [Week 17- Recommendations from smaller brands](https://open.substack.com/pub/thecuratedgarment/p/week-17-recommendations-from-smaller?r=h787v&utm_medium=ios)
+
+- 1776154218 [Spenser on Substack](https://substack.com/@fulltimefriend/note/c-118457936?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1776154794 [Leonard Morton on Substack](https://substack.com/@leonardmorton/note/c-118794070?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1778298599 [Natalie Carrasco on Substack](https://substack.com/@nataliecarrasco/note/c-119304144?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1778304257 [Tim Laielli on Substack](https://substack.com/@barefoodtim/note/c-119309554?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1779048202 [The “AI 2027” Scenario: How realistic is it?](https://open.substack.com/pub/garymarcus/p/the-ai-2027-scenario-how-realistic?r=h787v&utm_medium=ios)
+
+- 1799832591 [Dylan O'Sullivan on Substack](https://substack.com/@essayful/note/c-120260068?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1802720298 [The Who Cares Era | dansinker.com](https://dansinker.com/posts/2025-05-23-who-cares/?utm_source=tldrnewsletter)
+
+- 1802721544 [‘Not second screen enough’: is Netflix deliberately dumbing down TV so people can watch while scrolling?](https://www.theguardian.com/tv-and-radio/2025/jan/17/not-second-screen-enough-is-netflix-deliberately-dumbing-down-tv-so-people-can-watch-while-scrolling)
+
+- 1803776225 [Chris Schwaar on Substack](https://substack.com/@schwaar/note/c-115342945)
+
+- 1774516937 [Jack on Substack](https://substack.com/@jack/note/c-116476630?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1801294714 [Life-Changing Advice from 50 of the Most Interesting People We Know](https://www.esquire.com/style/big-black-book/a64390869/life-style-travel-advice-experts/)
+
+- 1802718199 [Researchers Say New Contact Lenses Let You See in the Dark](https://futurism.com/new-contact-lenses-see-dark)
+
+- 1779067068 [Hogeon on Substack](https://substack.com/@hogeon/note/c-118945060?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1781287360 [gabby on Substack](https://substack.com/@gabby4u/note/c-119066664?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+

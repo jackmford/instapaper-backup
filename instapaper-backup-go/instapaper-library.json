@@ -676,9 +676,17 @@
       "url": "https://brighteyes.substack.com/p/the-fuck-rate-is-about-to-implode",
       "title": "The Fuck Rate is about to Implode"
     },
+    "1768472107": {
+      "url": "https://github.com/openai/codex",
+      "title": "GitHub - openai/codex: Lightweight coding agent that runs in your terminal"
+    },
     "1769007593": {
       "url": "https://shallowbrooksoftware.com/posts/embracing-functional-simplicity/",
       "title": "Embracing Functional Simplicity"
+    },
+    "1769295945": {
+      "url": "https://www.anthropic.com/engineering/claude-code-best-practices?utm_source=tldrnewsletter",
+      "title": "Claude Code Best Practices"
     },
     "1769621918": {
       "url": "https://jasonpargin.substack.com/p/in-which-i-declare-war-on-beloved",
@@ -696,9 +704,21 @@
       "url": "https://www.benkuhn.net/impact/",
       "title": "Impact, agency, and taste"
     },
+    "1771146618": {
+      "url": "https://open.substack.com/pub/braunandbrains/p/the-relationship-between-humans-and?r=h787v\u0026utm_medium=ios",
+      "title": "The Relationship Between Humans and Humanlike Technology Is Getting Weird(er)"
+    },
+    "1771146837": {
+      "url": "https://open.substack.com/pub/clairebutler/p/bottoms-up-gtm-a-framework-for-product?r=h787v\u0026utm_medium=ios",
+      "title": "Bottoms-up GTM: A framework for product-led growth"
+    },
     "1771146921": {
       "url": "https://open.substack.com/pub/thedigitalmeadow/p/the-death-of-the-public-intellectual?r=h787v\u0026utm_medium=ios",
       "title": "The death of the public intellectual"
+    },
+    "1771323276": {
+      "url": "https://idiallo.com/blog/zipbomb-protection",
+      "title": "I use Zip Bombs to Protect my Server"
     },
     "1771627271": {
       "url": "https://substack.com/@lawsonchapman/note/c-113197479?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
@@ -707,6 +727,190 @@
     "1772463010": {
       "url": "https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek",
       "title": "Playing in the Creek — LessWrong"
+    },
+    "1772684935": {
+      "url": "https://www.honeycomb.io/blog/data-strategy-sre-observability-teams",
+      "title": "Data Strategy for SREs and Observability Teams"
+    },
+    "1772934862": {
+      "url": "https://open.substack.com/pub/expresscheckout/p/weekly-pickups-sour-sweets-instant?r=h787v\u0026utm_medium=ios",
+      "title": "Weekly Pickups: Sour sweets, instant coffee, and more..."
+    },
+    "1772934981": {
+      "url": "https://open.substack.com/pub/asekachov/p/late-night-designer-000?r=h787v\u0026utm_medium=ios",
+      "title": "Late Night Designer #000"
+    },
+    "1772935137": {
+      "url": "https://substack.com/@culturist/note/c-114202097?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "The Culturist on Substack"
+    },
+    "1773062417": {
+      "url": "https://moxie.org/2024/09/23/a-good-engineer.html",
+      "title": "The magic of software; or, what makes a good engineer also makes a good engineering organization"
+    },
+    "1773135343": {
+      "url": "https://open.substack.com/pub/kyla/p/the-most-valuable-commodity-in-the?r=h787v\u0026utm_medium=ios",
+      "title": "The Most Valuable Commodity in the World is Friction"
+    },
+    "1773344057": {
+      "url": "https://os.ryo.lu/",
+      "title": "ryOS"
+    },
+    "1773397781": {
+      "url": "https://www.nationalgeographic.com/travel/article/the-old-forge-inverie-knoydart-scotland",
+      "title": "Britain’s most remote mainland pub is well worth the two-day hike"
+    },
+    "1773550537": {
+      "url": "https://lindynewsletter.beehiiv.com/p/things-we-can-t-replace",
+      "title": "Things We Can’t Replace"
+    },
+    "1773556989": {
+      "url": "https://luna-rail.com/en/home",
+      "title": "The future of sustainable travel - Luna Rail"
+    },
+    "1773577690": {
+      "url": "https://open.substack.com/pub/sonderuncertainly/p/shits-gonna-get-so-fucking-weird?r=h787v\u0026utm_medium=ios",
+      "title": "Shit’s Gonna Get So Fucking Weird and Terrible"
+    },
+    "1774019478": {
+      "url": "https://www.dash0.com/blog/monitoring-minecraft-with-opentelemetry",
+      "title": "Monitoring Minecraft with OpenTelemetry · Blog · Dash0"
+    },
+    "1774516937": {
+      "url": "https://substack.com/@jack/note/c-116476630?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Jack on Substack"
+    },
+    "1774676240": {
+      "url": "https://open.substack.com/pub/katewhalen/p/gen-z-doesnt-drink-the-kool-aid?r=h787v\u0026utm_medium=ios",
+      "title": "Gen Z Isn't Drinking the Kool-Aid"
+    },
+    "1774735834": {
+      "url": "https://vvvincent.me/llms-are-making-me-dumber/",
+      "title": "LLMs are Making Me Dumber"
+    },
+    "1774949681": {
+      "url": "https://open.substack.com/pub/aella/p/the-joy-is-not-optional?r=h787v\u0026utm_medium=ios",
+      "title": "The Joy Is Not Optional"
+    },
+    "1775140554": {
+      "url": "https://open.substack.com/pub/newmeans/p/thinking-is-being-outsourced-to-ai?r=h787v\u0026utm_medium=ios",
+      "title": "Thinking is being outsourced to AI"
+    },
+    "1775140716": {
+      "url": "https://substack.com/@heyhereshannah/note/c-117422908?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Here’s Hannah on Substack"
+    },
+    "1775144982": {
+      "url": "https://open.substack.com/pub/themolehill/p/this-is-what-80-looks-like?r=h787v\u0026utm_medium=ios",
+      "title": "this is what 80 looks like."
+    },
+    "1775145196": {
+      "url": "https://open.substack.com/pub/benlippett/p/the-recipe-index?r=h787v\u0026utm_medium=ios",
+      "title": "THE RECIPE INDEX - How I Cook"
+    },
+    "1775145452": {
+      "url": "https://substack.com/@philipelliott/note/c-117302010?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Philip Elliott on Substack"
+    },
+    "1775192969": {
+      "url": "https://open.substack.com/pub/oneusefulthing/p/personality-and-persuasion?r=h787v\u0026utm_medium=ios",
+      "title": "Personality and Persuasion"
+    },
+    "1775518923": {
+      "url": "https://www.bloomberg.com/news/features/2025-05-18/how-apple-intelligence-and-siri-ai-went-so-wrong",
+      "title": "Why Apple Still Hasn’t Cracked AI"
+    },
+    "1775519318": {
+      "url": "https://notashelf.dev/posts/curse-of-knowing?utm_source=tldrnewsletter",
+      "title": "The Curse of Knowing How, or; Fixing Everything | Blog"
+    },
+    "1775519407": {
+      "url": "https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/",
+      "title": "Exclusive: InventWood is about to mass produce wood that’s stronger than steel | TechCrunch"
+    },
+    "1775519553": {
+      "url": "https://domenic.me/fsrs/",
+      "title": "Spaced Repetition Systems Have Gotten Way Better"
+    },
+    "1775899671": {
+      "url": "https://substack.com/home/post/p-148671005",
+      "title": "How Fantasy Literature Lost its Soul"
+    },
+    "1776033423": {
+      "url": "https://substack.com/@theisleofman/note/c-113325619?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "AA on Substack"
+    },
+    "1776040346": {
+      "url": "https://www.freethink.com/artificial-intelligence/the-great-progression-substack",
+      "title": "Why Substack will be the intellectual engine of the 21st century"
+    },
+    "1776065101": {
+      "url": "https://substack.com/@midcenturymondays/note/c-118702888?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Austin Winfield on Substack"
+    },
+    "1776083549": {
+      "url": "https://substack.com/@vanyabagaev/note/c-118786645?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Vanechka on Substack"
+    },
+    "1776084297": {
+      "url": "https://substack.com/@drgurner/note/c-118920707?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Dr. Julie Gurner on Substack"
+    },
+    "1776153991": {
+      "url": "https://open.substack.com/pub/thecuratedgarment/p/week-17-recommendations-from-smaller?r=h787v\u0026utm_medium=ios",
+      "title": "Week 17- Recommendations from smaller brands"
+    },
+    "1776154218": {
+      "url": "https://substack.com/@fulltimefriend/note/c-118457936?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Spenser on Substack"
+    },
+    "1776154794": {
+      "url": "https://substack.com/@leonardmorton/note/c-118794070?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Leonard Morton on Substack"
+    },
+    "1778298599": {
+      "url": "https://substack.com/@nataliecarrasco/note/c-119304144?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Natalie Carrasco on Substack"
+    },
+    "1778304257": {
+      "url": "https://substack.com/@barefoodtim/note/c-119309554?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Tim Laielli on Substack"
+    },
+    "1779048202": {
+      "url": "https://open.substack.com/pub/garymarcus/p/the-ai-2027-scenario-how-realistic?r=h787v\u0026utm_medium=ios",
+      "title": "The “AI 2027” Scenario: How realistic is it?"
+    },
+    "1779067068": {
+      "url": "https://substack.com/@hogeon/note/c-118945060?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Hogeon on Substack"
+    },
+    "1781287360": {
+      "url": "https://substack.com/@gabby4u/note/c-119066664?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "gabby on Substack"
+    },
+    "1799832591": {
+      "url": "https://substack.com/@essayful/note/c-120260068?r=h787v\u0026utm_medium=ios\u0026utm_source=notes-share-action",
+      "title": "Dylan O'Sullivan on Substack"
+    },
+    "1801294714": {
+      "url": "https://www.esquire.com/style/big-black-book/a64390869/life-style-travel-advice-experts/",
+      "title": "Life-Changing Advice from 50 of the Most Interesting People We Know"
+    },
+    "1802718199": {
+      "url": "https://futurism.com/new-contact-lenses-see-dark",
+      "title": "Researchers Say New Contact Lenses Let You See in the Dark"
+    },
+    "1802720298": {
+      "url": "https://dansinker.com/posts/2025-05-23-who-cares/?utm_source=tldrnewsletter",
+      "title": "The Who Cares Era | dansinker.com"
+    },
+    "1802721544": {
+      "url": "https://www.theguardian.com/tv-and-radio/2025/jan/17/not-second-screen-enough-is-netflix-deliberately-dumbing-down-tv-so-people-can-watch-while-scrolling",
+      "title": "‘Not second screen enough’: is Netflix deliberately dumbing down TV so people can watch while scrolling?"
+    },
+    "1803776225": {
+      "url": "https://substack.com/@schwaar/note/c-115342945",
+      "title": "Chris Schwaar on Substack"
     }
   }
 }
