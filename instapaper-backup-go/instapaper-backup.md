@@ -454,3 +454,35 @@
 
 - 1781287360 [gabby on Substack](https://substack.com/@gabby4u/note/c-119066664?r=h787v&utm_medium=ios&utm_source=notes-share-action)
 
+- 1803848437 [Travels with Brad: Rules for Living in a Jeep with Your Father across America](https://substack.com/home/post/p-164463737)
+
+- 1814959282 [Joel Uili on Substack](https://substack.com/@archeronline/note/c-123011467)
+
+- 1775899229 [Andy Matuschak](https://andymatuschak.org/)
+
+- 1803813548 [MAKING SOFTWARE](https://www.makingsoftware.com/)
+
+- 1803822433 [Vanechka on Substack](https://substack.com/@vanyabagaev/note/c-113579003)
+
+- 1805047303 [Ben Strak on Substack](https://substack.com/@designlobster/note/c-121390443?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1805049801 [Kerry Jane on Substack](https://substack.com/@kerryjane/note/c-121178549?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1805351544 [Tweet from Yuchen Jin](https://x.com/yuchenj_uw/status/1928502759227080841?s=12)
+
+- 1809905264 [Tom White on Substack](https://substack.com/@tjwtjwtjw/note/c-121698224?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1810015301 [What a Time To Not Be Unalive; a not so appropriate musing on the cocodona 250](http://michaelversteeg.blogspot.com/2022/04/what-time-to-not-be-unalive-not-so.html)
+
+- 1812074588 [Colorado Trail FKT field notes | Colorado trail, Trail, Colorado](https://www.pinterest.com/pin/colorado-trail-fkt-field-notes--767793436492166036/)
+
+- 1812763802 [Vanechka on Substack](https://substack.com/@vanyabagaev/note/c-122470005?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1812786000 [Anton Krupicka is Possessed | Hiking outfit, Canada fashion, Bike culture](https://www.pinterest.com/pin/anton-krupicka-is-possessed--323274079514637009/)
+
+- 1812786341 [Colorado Trail FKT field notes](https://satisfyrunning.com/blogs/possessed/colorado-trail-fkt-field-notes)
+
+- 1812786493 [in Conversation with Michael Versteeg](https://satisfyrunning.com/blogs/possessed/michael-versteeg)
+
+- 1811811892 [Essay | Of Course Workers Want a Four-Day Week. Companies Should Too.](https://www.wsj.com/lifestyle/workplace/of-course-workers-want-a-four-day-week-companies-should-too-0837a0a1)
+
