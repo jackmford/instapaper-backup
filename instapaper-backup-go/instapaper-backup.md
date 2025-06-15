@@ -486,3 +486,7 @@
 
 - 1811811892 [Essay | Of Course Workers Want a Four-Day Week. Companies Should Too.](https://www.wsj.com/lifestyle/workplace/of-course-workers-want-a-four-day-week-companies-should-too-0837a0a1)
 
+- 1815562861 [Daniel Benneworth-Gray on Substack](https://substack.com/@meanwhile/note/c-122920405?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1823161343 [Google Cloud outage brings down a lot of the internet | TechCrunch](https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/)
+
