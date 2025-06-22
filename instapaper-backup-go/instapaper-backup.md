@@ -490,3 +490,23 @@
 
 - 1823161343 [Google Cloud outage brings down a lot of the internet | TechCrunch](https://techcrunch.com/2025/06/12/google-cloud-outage-brings-down-a-lot-of-the-internet/)
 
+- 1826836184 [Tweet from kache](https://x.com/yacinemtb/status/1935119067524018318?s=12)
+
+- 1827310041 [Coby Dolloff on Substack](https://substack.com/@cobydolloff/note/c-126898520?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1827310194 [John Thompson on Substack](https://substack.com/@johnthompsoniv/note/c-127042868?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1827438634 [Escape from New York: Business Leaders Say They’ll Flee if Mamdani Wins](https://www.thefp.com/p/escape-from-new-york-business-leaders-mamdani-new-york-city)
+
+- 1827451293 [Tweet from 1997 FORD FIESTA](https://x.com/skooookum/status/1935434155652763665?s=12)
+
+- 1827527583 [Tweet from 1997 FORD FIESTA](https://x.com/skooookum/status/1935501835906818356?s=12)
+
+- 1803845388 [Why does everything look infantilized?](https://substack.com/home/post/p-150070369)
+
+- 1823438265 [Why We Want Robots at Work but Humans in Art](https://docs.google.com/document/d/1-3q70tJV7A-Y99uGO6bd8Hrx4uE0iZtn-QrIa6wWag8/edit?tab=t.0&usp=embed_facebook)
+
+- 1823160560 [Experimental retina implants give mice infrared vision](https://arstechnica.com/science/2025/06/experimental-retina-implants-give-mice-infrared-vision/)
+
+- 1827532141 [05 may 25](https://open.substack.com/pub/caffeineandgasoline/p/05-may-25?r=h787v&utm_medium=ios)
+
