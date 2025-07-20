@@ -510,3 +510,79 @@
 
 - 1827532141 [05 may 25](https://open.substack.com/pub/caffeineandgasoline/p/05-may-25?r=h787v&utm_medium=ios)
 
+- 1854098188 [Tweet from 1997 FORD FIESTA](https://x.com/skooookum/status/1944065327270187428?s=12)
+
+- 1854771330 [Hogeon on Substack](https://substack.com/@hogeon/note/c-134760060?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1855600093 [Tweet from Chroma](https://x.com/trychroma/status/1944835468551708905?s=12)
+
+- 1855653815 [25 Must-Try NYC Dishes](https://open.substack.com/pub/opentabsletter/p/25-must-try-nyc-dishes?r=h787v&utm_medium=ios)
+
+- 1839482093 [How To Remember What You Read](https://substack.com/home/post/p-167005687)
+
+- 1839492279 [Dylan O'Sullivan on Substack](https://substack.com/@essayful/note/c-131022374)
+
+- 1839506406 [Dusty Henry on Substack](https://substack.com/@anotherthoughtanotherthought/note/c-128433858)
+
+- 1850087971 [Patrik Svensson - Introducing OpenCLI](https://patriksvensson.se/posts/2025/07/introducing-open-cli?utm_source=tldrnewsletter)
+
+- 1850088422 [CTOs Reveal How AI Changed Software Developer Hiring in 2025](https://www.finalroundai.com/blog/software-developer-skills-ctos-want-in-2025)
+
+- 1850088582 [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
+
+- 1850088696 [Waymo Begins Offering Teen Accounts, Starting in Metro Phoenix](https://finance.yahoo.com/news/waymo-begins-offering-teen-accounts-170020443.html)
+
+- 1850465968 [Tweet from LindyMan](https://x.com/paulskallas/status/1868688837075239068?s=12)
+
+- 1853323159 [Seven Habits of Highly Effective Travellers - Souvenirs](https://open.substack.com/pub/andrewsamtoy/p/seven-habits-of-highly-effective?r=h787v&utm_medium=ios)
+
+- 1853325030 [Vanechka on Substack](https://substack.com/@vanyabagaev/note/c-133901916?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1853326784 [Paul Newman: The Man Behind the Timeless Photos](https://open.substack.com/pub/andrewcarr313/p/paul-newman-the-man-behind-the-timeless?r=h787v&utm_medium=ios)
+
+- 1804451361 [Knowledge Work Is Dying—Here’s What Comes Next](https://every.to/thesis/knowledge-work-is-dying-here-s-what-comes-next)
+
+- 1815470484 [What a developer needs to know about SCIM | Tesseral Blog](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim?utm_source=tldrnewsletter)
+
+- 1822231732 [The Audacious Reboot of America’s Nuclear Energy Program](https://www.wsj.com/business/energy-oil/nuclear-energy-industry-startups-942ae4a1)
+
+- 1823160628 [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding)
+
+- 1823530526 [Tweet from Painful Progress](https://x.com/painprogression/status/1933659316554543459?s=12)
+
+- 1823534442 [The Fly-in Girl Economy, Explained](https://substack.com/@quinnlarrabee/note/p-164892232?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1824636247 [greek salad on Substack](https://substack.com/@benfatosum/note/c-124549528?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1824976253 [Hogeon on Substack](https://substack.com/@hogeon/note/c-126040764?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1826739566 [Everett Williams on Substack](https://substack.com/@iameverett/note/c-126407203?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1827527445 [EXCLUSIVE: Student Visa Applicants with ‘Hostile Attitudes’ Will Be Told They Can’t Come to the U.S.](https://www.thefp.com/p/exclusive-student-visa-applicants-social-media-check)
+
+- 1827724736 [Waymo Wants to Bring Its Robotaxis to New York City](https://www.wsj.com/business/autos/waymo-wants-to-bring-its-robotaxis-to-new-york-city-b5a6ad3a)
+
+- 1827880785 [Tweet from Corry Wang](https://x.com/corry_wang/status/1935678802308321773?s=12)
+
+- 1828732064 [Tweet from 1997 FORD FIESTA](https://x.com/skooookum/status/1936630154068959674?s=12)
+
+- 1828883908 [When the Phone Stops Ringing](https://www.thefp.com/p/when-the-phone-stops-ringing-ancient-wisdom)
+
+- 1829162494 [Career advice, or something like it - Marc's Blog](https://brooker.co.za/blog/2025/06/20/career.html?utm_source=tldrnewsletter)
+
+- 1829197643 [My (mostly) minimalistic AI setup as a Senior Engineer in Big Tech](https://substack.com/@jordancutler/note/p-166421951?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1829502726 [Tweet from Autism Capital 🧩](https://x.com/autismcapital/status/1937288359845724480?s=12)
+
+- 1834519896 [23 Men's Watches That Will Never Go Out of Style](https://open.substack.com/pub/livealittle/p/best-watches-for-men-2025?r=h787v&utm_medium=ios)
+
+- 1834701613 [Tweet from Aaron Slodov](https://x.com/aphysicist/status/1938728697172795480?s=12)
+
+- 1837482723 [Suzy Weiss: Admit It, Being an Adult Is Hard](https://www.thefp.com/p/suzy-weiss-admit-it-being-an-adult)
+
+- 1839506491 [Maximilian Siddell on Substack](https://substack.com/@mpsiddell/note/c-130733535)
+
+- 1840584806 [Tweet from doomer](https://x.com/uncledoomer/status/1940810442479481205?s=12)
+
+- 1856053543 [MAKING SOFTWARE](https://www.makingsoftware.com/chapters/how-a-screen-works?utm_source=tldrnewsletter)
+
