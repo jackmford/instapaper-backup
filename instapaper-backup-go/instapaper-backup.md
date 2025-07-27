@@ -586,3 +586,5 @@
 
 - 1856053543 [MAKING SOFTWARE](https://www.makingsoftware.com/chapters/how-a-screen-works?utm_source=tldrnewsletter)
 
+- 1864419006 [Your body can be fingerprinted and tracked using Wi-Fi signals](https://www.pcworld.com/article/2856683/your-body-can-be-fingerprinted-and-tracked-using-wi-fi-signals.html)
+
