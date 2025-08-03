@@ -588,3 +588,13 @@
 
 - 1864419006 [Your body can be fingerprinted and tracked using Wi-Fi signals](https://www.pcworld.com/article/2856683/your-body-can-be-fingerprinted-and-tracked-using-wi-fi-signals.html)
 
+- 1862002450 [Exclusive | SoftBank and Open AI’s $500 Billion AI Project Struggles to Get Off Ground](https://www.wsj.com/tech/ai/softbank-openai-a3dc57b4)
+
+- 1863252562 [The holy shit gap](https://mhlakhani.com/blog/2025/07/holy-shit-gap/)
+
+- 1859717196 [Tweet from Defiant L’s](https://x.com/defiantls/status/1946531322928730175?s=12)
+
+- 1861038400 [America Won’t Exist If We Can’t Build Things](https://www.thefp.com/p/america-wont-exist-if-we-cant-build-things-china-industrial-power)
+
+- 1863251642 [John Thompson (@johnthompsoniv)](https://substack.com/@johnthompsoniv/note/c-137817490?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
