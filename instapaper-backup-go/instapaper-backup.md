@@ -598,3 +598,5 @@
 
 - 1863251642 [John Thompson (@johnthompsoniv)](https://substack.com/@johnthompsoniv/note/c-137817490?r=h787v&utm_medium=ios&utm_source=notes-share-action)
 
+- 1872933587 [Book a Table with Perplexity and OpenTable](https://www.perplexity.ai/hub/blog/book-a-table-with-perplexity-and-opentable)
+
