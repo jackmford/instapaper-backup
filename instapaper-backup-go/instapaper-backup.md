@@ -600,3 +600,15 @@
 
 - 1872933587 [Book a Table with Perplexity and OpenTable](https://www.perplexity.ai/hub/blog/book-a-table-with-perplexity-and-opentable)
 
+- 1871273569 [Tweet from doomer](https://x.com/uncledoomer/status/1951659608575029477?s=12)
+
+- 1872927397 [The Rise of Silicon Valley’s Techno-Religion](https://www.nytimes.com/2025/08/04/technology/rationalists-ai-lighthaven.html)
+
+- 1875240173 [Linear sent me down a local-first rabbit hole | Bytemash](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
+
+- 1878450717 [Exclusive | Perplexity Makes Longshot $34.5 Billion Offer for Chrome](https://www.wsj.com/tech/perplexity-ai-google-chrome-offer-5ddb7a22)
+
+- 1878451281 [Tech Debt? I don't believe it exists.](https://dadrian.io/blog/posts/tech-debt/)
+
+- 1877983231 [BRAVEST STUDIOS Red Foot Clogs at Gravity NYC](https://gravitynyc.co/products/bravest-studios-red-foot-clogs)
+
