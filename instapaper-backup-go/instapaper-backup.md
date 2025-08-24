@@ -612,3 +612,15 @@
 
 - 1877983231 [BRAVEST STUDIOS Red Foot Clogs at Gravity NYC](https://gravitynyc.co/products/bravest-studios-red-foot-clogs)
 
+- 1868245297 [AI is eating the Internet](https://fika.bar/paoramen/ai-is-eating-the-internet-01K10JG1SHGZQHN61HPGWPXN60?utm_source=tldrnewsletter)
+
+- 1869718899 [Personal Superintelligence](https://www.meta.com/superintelligence/?utm_source=tldrnewsletter)
+
+- 1870214952 [Tweet from Hernan Cortes](https://x.com/cyberpunkcortes/status/1950749407365718087?s=12)
+
+- 1870210093 [Tweet from kache](https://x.com/yacinemtb/status/1951109235263291636?s=12)
+
+- 1872933728 [Fine-tuned Small LLMs Can Beat Large Ones at 5-30x Lower Cost with Programmatic Data Curation · TensorZero](https://www.tensorzero.com/blog/fine-tuned-small-llms-can-beat-large-ones-at-5-30x-lower-cost-with-programmatic-data-curation/)
+
+- 1878451870 [openai burns the boats](https://ethanding.substack.com/p/openai-burns-the-boats?utm_campaign=posts-open-in-app)
+
