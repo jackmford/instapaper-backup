@@ -624,3 +624,31 @@
 
 - 1878451870 [openai burns the boats](https://ethanding.substack.com/p/openai-burns-the-boats?utm_campaign=posts-open-in-app)
 
+- 1860806972 [Utkarsh Kanwat - AI Engineer](https://utkarshkanwat.com/writing/betting-against-agents/)
+
+- 1865304071 [C. S. Indoors (@intotheindoors)](https://substack.com/@intotheindoors/note/c-135983402?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1868782840 [Scamming Substack?](https://willstorr.substack.com/p/scamming-substack)
+
+- 1868785604 [Context Engineering for Agents](http://rlancemartin.github.io/2025/06/23/context_engineering/)
+
+- 1868791429 [On the Edge of Competence](https://ordep.dev/posts/circle-of-competence)
+
+- 1870558890 [Learning the Bitter Lesson](http://rlancemartin.github.io/2025/07/30/bitter_lesson/)
+
+- 1872228490 [Tweet from Andrew Ng](https://x.com/AndrewYNg/status/1950941108000964654)
+
+- 1878451482 [No AGI in Sight: What This Means for LLMs](https://kennethwolters.com/posts/no-agi/)
+
+- 1878452052 [AI Is Forcing the Return of the In-Person Job Interview](https://www.wsj.com/lifestyle/careers/ai-job-interview-virtual-in-person-305f9fd0)
+
+- 1878452914 [Why Are There So Many Rationalist Cults?—Asterisk](https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults)
+
+- 1879436048 [LF 2L](https://raideresearch.com/products/lf-2l)
+
+- 1880974666 [35 Thoughts About AGI and 1 About GPT-5 — LessWrong](https://www.lesswrong.com/posts/uAbbEz4p6tcsENaRz/35-thoughts-about-agi-and-1-about-gpt-5)
+
+- 1880975166 [What if AI Doesn’t Get Much Better Than This? - Cal Newport](https://calnewport.com/what-if-ai-doesnt-get-much-better-than-this/)
+
+- 1882308576 [Worst Case | Bambi Tabis | Sandals](https://www.complex.com/shop/products/bambi-tabis-sale-ending)
+
