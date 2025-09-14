@@ -652,3 +652,15 @@
 
 - 1882308576 [Worst Case | Bambi Tabis | Sandals](https://www.complex.com/shop/products/bambi-tabis-sale-ending)
 
+- 1896205852 [Tweet from Linus Ekenstam](https://x.com/LinusEkenstam/status/1965014479760204118)
+
+- 1896295148 [Words are not violence](https://world.hey.com/dhh/words-are-not-violence-c751f14f)
+
+- 1880974436 [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/?utm_source=tldrnewsletter)
+
+- 1890230261 [Tweet from sal](https://x.com/cowboyverismo/status/1962191676690022653?s=12)
+
+- 1892449945 [Apple Plans AI-Powered Web Search Tool for Siri to Rival OpenAI, Perplexity](https://www.bloomberg.com/news/articles/2025-09-03/apple-plans-ai-search-engine-for-siri-to-rival-openai-google-siri-talks-advance)
+
+- 1894893881 ['Near Telepathic' Wearable Lets You Communicate Silently With Devices - Decrypt](https://decrypt.co/338527/near-telepathic-wearable-communicate-silently-devices)
+
