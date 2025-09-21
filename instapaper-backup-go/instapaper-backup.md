@@ -664,3 +664,9 @@
 
 - 1894893881 ['Near Telepathic' Wearable Lets You Communicate Silently With Devices - Decrypt](https://decrypt.co/338527/near-telepathic-wearable-communicate-silently-devices)
 
+- 1897001766 [Emily (@emmahcodee)](https://substack.com/@emmahcodee/note/c-146983135?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1897968927 [Alex DiCapo Patel (@alexdicapopatel)](https://substack.com/@alexdicapopatel/note/c-155512542?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1897970701 [Hogeon (@hogeon)](https://substack.com/@hogeon/note/c-155521869?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
