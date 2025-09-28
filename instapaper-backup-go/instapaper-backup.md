@@ -670,3 +670,7 @@
 
 - 1897970701 [Hogeon (@hogeon)](https://substack.com/@hogeon/note/c-155521869?r=h787v&utm_medium=ios&utm_source=notes-share-action)
 
+- 1903629536 [Tweet from LindyMan](https://x.com/PaulSkallas/status/1943691668311412994)
+
+- 1903773546 [Tweet from Mads](https://x.com/MadsPosting/status/1970942484307153156)
+
