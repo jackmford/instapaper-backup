@@ -674,3 +674,125 @@
 
 - 1903773546 [Tweet from Mads](https://x.com/MadsPosting/status/1970942484307153156)
 
+- 1914375333 [Please, someone save humanity from airplane WiFi](https://open.substack.com/pub/skylarrenslow/p/please-someone-save-humanity-from-airplane-wifi?r=h787v&utm_medium=ios)
+
+- 1915467134 [Tweet from Wall St Engine](https://x.com/wallstengine/status/1978159525997007351)
+
+- 1915573116 [The One Percent’s Fear of Death Is Wreaking Havoc on the World](https://newrepublic.com/article/199347/1-fear-death-wreaking-havoc-world)
+
+- 1907747853 [Decentralizing quality](https://matthewstrom.com/writing/decentralizing-quality/)
+
+- 1915492585 [Josh Lynott (@joshlynott)](https://substack.com/@joshlynott/note/c-166148094?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1911391748 [Delta CEO says air traffic control systems are so outdated that some commercial flight routes were faster in the 1950s than they are today | Fortune](https://fortune.com/2025/10/07/delta-ceo-air-traffic-control-systems-outdated-commercial-flight-routes-faster-in-1950s/)
+
+- 1911698149 [28 Cool Style & Gear Releases Making Waves This Fall](https://substack.com/home/post/p-174833988)
+
+- 1911753342 [The Bitter Lesson versus The Garbage Can](https://www.oneusefulthing.org/p/the-bitter-lesson-versus-the-garbage)
+
+- 1863252520 [Research shows Google AI Overviews reduce website clicks by almost half](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
+
+- 1874704053 [New Method Is the Fastest Way To Find the Best Routes | Quanta Magazine](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
+
+- 1878452742 [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
+
+- 1893004830 [The death of the corporate job.](https://open.substack.com/pub/thestillwandering/p/the-death-of-the-corporate-job?r=h787v&utm_medium=ios)
+
+- 1894323982 [Being good isn’t enough](https://joshs.bearblog.dev/being-good-isnt-enough/)
+
+- 1895224307 [I’m Pretty Sure AI Companions Are Evil](https://open.substack.com/pub/braunandbrains/p/im-pretty-sure-ai-companions-are?r=h787v&utm_medium=ios)
+
+- 1895595141 [An analytical guide to people-watching in NYC](https://open.substack.com/pub/residualthoughts/p/an-analytical-guide-to-people-watching?r=h787v&utm_medium=ios)
+
+- 1897001449 [Sofia (@sofiazabaleta)](https://substack.com/@sofiazabaleta/note/c-149837373?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1897001546 [The Post-Wellness Era](https://open.substack.com/pub/erinnystrom/p/the-post-wellness-era?r=h787v&utm_medium=ios)
+
+- 1900153488 [Boring is good – Scott Jenson](https://jenson.org/boring/)
+
+- 1900325684 [TREND RADAR #6](https://open.substack.com/pub/whatsanu/p/trend-radar-6?r=h787v&utm_medium=ios)
+
+- 1900523788 [Tweet from Claude](https://x.com/claudeai/status/1968705632095158393)
+
+- 1902180092 [Tweet from Autism Capital 🧩](https://x.com/AutismCapital/status/1969883628198039949)
+
+- 1902584027 [Tweet from Crémieux](https://x.com/cremieuxrecueil/status/1962937861964959907)
+
+- 1902613287 [Tweet from jordi](https://x.com/jordienr/status/1969799278165188979)
+
+- 1902614368 [Tweet from Autism Capital 🧩](https://x.com/AutismCapital/status/1970195833745481825)
+
+- 1902614922 [Tweet from Jamie Voynow](https://x.com/jamievoynow/status/1970167592506794326)
+
+- 1902616292 [Bestsellers | Durable Products That Last a Lifetime](https://buymeonce.com/collections/bestsellers)
+
+- 1902886731 [Facebook is getting an AI dating assistant | TechCrunch](https://techcrunch.com/2025/09/22/facebook-is-getting-an-ai-dating-assistant/)
+
+- 1902886973 [how i accidentally joined vercel](https://www.jos.hn/blog/vercel?utm_source=tldrnewsletter)
+
+- 1903094558 [AI Will Not Make You Rich](https://joincolossus.com/article/ai-will-not-make-you-rich/)
+
+- 1903529969 [Larry Ellison, a Media Mogul Like No Other](https://www.nytimes.com/2025/09/23/technology/larry-ellison-oracle-tiktok.html)
+
+- 1903531531 [How Americans View AI and Its Impact on People and Society](https://www.pewresearch.org/science/2025/09/17/how-americans-view-ai-and-its-impact-on-people-and-society/)
+
+- 1903612914 [Perplexity](https://www.perplexity.ai/page/google-admits-biden-pressure-w-55tcZPthSi6MjuITHX3YeQ)
+
+- 1903614071 [Perplexity](https://www.perplexity.ai/page/apple-confirms-digital-passpor-0xUCn1sFRl6C0mfVkxYKNw)
+
+- 1904015058 [OpenAI growth rebounds following GPT-5 launch](https://open.substack.com/pub/econlab/p/openai-growth-rebounds-following?r=h787v&utm_medium=ios)
+
+- 1904780504 [Tweet from Zoomer 🧢](https://x.com/zoomyzoomm/status/1964798311438979364)
+
+- 1905416020 [Tweet from Super 70s Sports](https://x.com/Super70sSports/status/1970996280257282412)
+
+- 1905897076 [Tweet from Lucas Beyer (bl16)](https://x.com/giffmana/status/1972351042823258276)
+
+- 1906510556 [Tweet from Zoomer 🧢](https://x.com/zoomyzoomm/status/1972814592037540187)
+
+- 1906944920 [Tweet from Gator | Dentist](https://x.com/BowTiedGatorDDS/status/1973056048463237477)
+
+- 1906945095 [What is Barbarism?](https://www.betonit.ai/p/what-is-barbarism)
+
+- 1906945420 [Tweet from Geiger Capital](https://x.com/Geiger_Capital/status/1973102780102365427)
+
+- 1907052683 [Tweet from Vintage Maps](https://x.com/vintagemapstore/status/1972723127420383688)
+
+- 1907562207 [LL (@ll1985)](https://substack.com/@ll1985/note/c-161849288?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1907562281 [So This is 30](https://open.substack.com/pub/nickmonica/p/so-this-is-30?r=h787v&utm_medium=ios)
+
+- 1907750102 [Playing the Field with My A.I. Boyfriends](https://www.newyorker.com/magazine/2025/09/15/playing-the-field-with-my-ai-boyfriends)
+
+- 1907750848 [Instagram](https://www.instagram.com/p/DPILxU2jHMz/)
+
+- 1907761858 [Shannan Mann (@shannanmania)](https://substack.com/@shannanmania/note/c-160788008?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1907923900 [Tweet from Mads](https://x.com/MadsPosting/status/1973793834589888744)
+
+- 1907931959 [Tweet from Mads](https://x.com/MadsPosting/status/1973774173739843615)
+
+- 1907941112 [Tweet from Erik Bernhardsson](https://x.com/bernhardsson/status/1973790465154822413)
+
+- 1908079179 [Tweet from jakob](https://x.com/optiszka/status/1973876402522108348)
+
+- 1908453681 [Tweet from kyle turman](https://x.com/kyleturman/status/1973774056064516346)
+
+- 1908454228 [Tweet from Dudes Posting Their W’s](https://x.com/DudespostingWs/status/1973971270745178276)
+
+- 1908467311 [Tweet from Mads](https://x.com/MadsPosting/status/1974082677222563903)
+
+- 1908834065 [Tweet from signüll](https://x.com/signulll/status/1974478088080707820)
+
+- 1908887988 [Tweet from Daniel Berk 🐝](https://x.com/danielcberk/status/1974118865765568844)
+
+- 1908888061 [Tweet from LindyMan](https://x.com/PaulSkallas/status/1974508386210414596)
+
+- 1909381655 [Tweet from Phillip Jackson](https://x.com/philwinkle/status/1974628821144920324)
+
+- 1909397996 [Tweet from NIK](https://x.com/ns123abc/status/1974491324947542170)
+
+- 1909398416 [Tweet from Daniel](https://x.com/growing_daniel/status/1974549403856928821)
+
+- 1911390399 [Kilian Jornet Completes U.S. "States of Elevation" Project](https://www.irunfar.com/kilian-jornet-completes-states-of-elevation-2025-us-mountain-project)
+
