@@ -13,18 +13,21 @@ import (
 	"github.com/dghubble/oauth1"
 )
 
+// Incoming data from Instapaper
 type Bookmark struct {
   Title string `json:"title"`
   Url   string `json:"url"`
   BookmarkId int `json:"bookmark_id"`
 }
 
+type BookmarkDetails struct {
+  Url string `json:"url"`
+  Title string `json:"title"`
+}
+
 // LibraryData represents the structure of our saved library
 type LibraryData struct {
-	Bookmarks map[int]struct {
-		Url   string `json:"url"`
-		Title string `json:"title"`
-	} `json:"bookmarks"`
+  Bookmarks map[int]BookmarkDetails `json:"bookmarks"`
 }
 
 // Retrieve Oauth token.
@@ -130,29 +133,20 @@ func initializeLibrary(libraryFilePath string) LibraryData {
 			if err := json.Unmarshal(data, &library); err != nil {
 				// If error, try to initialize as empty
 				library = LibraryData{
-					Bookmarks: make(map[int]struct {
-						Url   string `json:"url"`
-						Title string `json:"title"`
-					}),
+          make(map[int]BookmarkDetails),
 				}
 			}
 		} else {
 			// Empty file, initialize library
-			library = LibraryData{
-				Bookmarks: make(map[int]struct {
-					Url   string `json:"url"`
-					Title string `json:"title"`
-				}),
-			}
+      library = LibraryData{
+        make(map[int]BookmarkDetails),
+      }
 		}
 	} else {
 		// File doesn't exist, initialize library
-		library = LibraryData{
-			Bookmarks: make(map[int]struct {
-				Url   string `json:"url"`
-				Title string `json:"title"`
-			}),
-		}
+    library = LibraryData{
+      make(map[int]BookmarkDetails),
+    }
 	}
   return library
 }
