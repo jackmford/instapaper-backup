@@ -1138,3 +1138,7 @@
 
 - 1772463010 [Playing in the Creek — LessWrong](https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek)
 
+- 1921929983 [Tweet from Elon Musk](https://x.com/elonmusk/status/1983125099973882120)
+
+- 1921989288 [Elon Musk's Wikipedia rival site live after crashing on launch day](https://www.axios.com/2025/10/28/wikipedia-musk-elon-grokipedia)
+
