@@ -1142,3 +1142,31 @@
 
 - 1921989288 [Elon Musk's Wikipedia rival site live after crashing on launch day](https://www.axios.com/2025/10/28/wikipedia-musk-elon-grokipedia)
 
+- 1926473670 [Stop vibe coding your unit tests — Andy Gallagher](https://www.andy-gallagher.com/blog/stop-vibe-coding-your-unit-tests/)
+
+- 1919734329 [TRMNL | Developers - build the future of e-ink](https://usetrmnl.com/developers)
+
+- 1919739979 [TRMNL | Recipes](https://usetrmnl.com/recipes?search=vim&sort-by=newest)
+
+- 1919742963 [Private Plugins | TRMNL Help Center](https://help.usetrmnl.com/en/articles/9510536-private-plugins)
+
+- 1919743181 [General | TRMNL Help Center](https://help.usetrmnl.com/en/collections/7820478-general)
+
+- 1920906596 [Curated Supply](https://www.curated.supply/)
+
+- 1922057279 [10 thoughts from Tolstoy](https://substack.com/home/post/p-176595023?source=queue)
+
+- 1922488380 [Gone Fishing with Atsushi Hasegawa](https://us.drakes.com/blogs/news/gone-fishing-with-atsushi-hasegawa)
+
+- 1925529517 [Dale Bard: The "Heavyweight Champion of the Dirtbagging World"](https://www.climbing.com/culture-climbing/worlds-best-dirtbag-climber-dale-bard/)
+
+- 1925914752 [At The Table: Mathieu Canet](https://us.drakes.com/blogs/news/at-the-table-mathieu-canet)
+
+- 1926053712 [I’m Betting $100 Million on a New University](https://www.thefp.com/p/im-betting-100-million-on-a-new-university)
+
+- 1925911832 [The Most Detailed Map of the New York City Mayoral Election](https://www.nytimes.com/interactive/2025/11/04/us/elections/nyc-mayor-results-precinct-map.html)
+
+- 1923664004 [Isabel Cowles Murphy (@thenobletry)](https://substack.com/@thenobletry/note/c-171371796?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1922494713 [The Goon Squad, by Daniel Kolitz](https://harpers.org/archive/2025/11/the-goon-squad-daniel-kolitz-porn-masturbation-loneliness/)
+
