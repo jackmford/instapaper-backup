@@ -1170,3 +1170,49 @@
 
 - 1922494713 [The Goon Squad, by Daniel Kolitz](https://harpers.org/archive/2025/11/the-goon-squad-daniel-kolitz-porn-masturbation-loneliness/)
 
+- 1930526661 [Big Tech’s Soaring Profits Have an Ugly Underside: OpenAI’s Losses](https://www.wsj.com/tech/ai/big-techs-soaring-profits-have-an-ugly-underside-openais-losses-fe7e3184)
+
+- 1902886922 [The common sense unit of work - nilenso blog](http://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/)
+
+- 1896211992 [The Scam Called “You Don't Have to Remember Anything” • Zettelkasten Method](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/?utm_source=tldrnewsletter)
+
+- 1872226796 [Full-breadth Developers](https://justin.searls.co/posts/full-breadth-developers/)
+
+- 1912665732 [Everything Is Television](https://open.substack.com/pub/derekthompson/p/why-everything-became-television?r=h787v&utm_medium=ios)
+
+- 1917141884 [62 Extremely Passionate Recommendations](https://open.substack.com/pub/gumshoe/p/62-extremely-passionate-recommendations?r=h787v&utm_medium=ios)
+
+- 1926212930 [stenchtoast (@stenchtoast)](https://substack.com/@stenchtoast/note/c-173457864?r=h787v&utm_medium=ios)
+
+- 1918711014 [Tweet from Alex Prompter](https://x.com/alex_prompter/status/1980224548550369376)
+
+- 1908453276 [Tweet from Parker](https://x.com/parkerhendo/status/1973904521257759183)
+
+- 1911389944 [Boox’s next smartphone-sized e-reader has a color screen and a stylus](https://www.theverge.com/news/794751/onyx-boox-p6-pro-e-ink-reader-smartphone-color-palma)
+
+- 1912141988 [Reading Saved Me from the Sins of My Fathers](https://www.thefp.com/p/reading-saved-me-from-the-sins-of-my-fathers-culture-podcast-old-school)
+
+- 1913230723 [Olydoe Has Arrived.](https://open.substack.com/pub/lukemangan/p/olydoe-has-arrived?r=h787v&utm_medium=ios)
+
+- 1913233530 [Niall Ferguson: Without Books We Will Be Barbarians](https://www.thefp.com/p/niall-ferguson-without-books-we-will-be-barbarians)
+
+- 1914253217 [Things Worth Remembering: How to Save All the Lonely People](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cudGhlZnAuY29tL3AvdGhpbmdzLXdvcnRoLXJlbWVtYmVyaW5nLWhvdy10by1zYXZlLWFsbC10aGUtbG9uZWx5LXBlb3BsZS1kYXZpZC1mb3N0ZXItd2FsbGFjZT91dG1fY2FtcGFpZ249ZW1haWwtcG9zdCZyPWg3ODd2JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3lPRGc1TURjeE5Td2ljRzl6ZEY5cFpDSTZNVGMxTnpVME9UQTRMQ0pwWVhRaU9qRTNOakF5TmpRd09USXNJbVY0Y0NJNk1UYzJNamcxTmpBNU1pd2lhWE56SWpvaWNIVmlMVEkyTURNME55SXNJbk4xWWlJNkluQnZjM1F0Y21WaFkzUnBiMjRpZlEuaW5RaFBiTDR6NWFYWGF0dHNIdWpVanY1dUpTNGVwaVFBbXN0LVhJUDVRbyIsInAiOjE3NTc1NDkwOCwicyI6MjYwMzQ3LCJmIjp0cnVlLCJ1IjoyODg5MDcxNSwiaWF0IjoxNzYwMjY0MDkyLCJleHAiOjIwNzU4NDAwOTIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.4JGvDrx2bIBKEHqC-FApUjV-clPoTRi79Y0fyId02TU)
+
+- 1914951235 [Getting Jacked is Simple](https://open.substack.com/pub/onlyvariance/p/getting-jacked-is-simple?r=h787v&utm_medium=ios)
+
+- 1916887367 [Tweet from ℳ𝒶𝓇𝒶✰](https://x.com/unniemara/status/1978328920341590025)
+
+- 1918319304 [The 1/8th Sleep | near.blog](https://near.blog/the-1-8th-sleep/)
+
+- 1918833912 [Tweet from Kitten 💖🐈](https://x.com/kitten_beloved/status/1980380236811555114)
+
+- 1919300129 [The most life-changing books, statistically](https://open.substack.com/pub/residualthoughts/p/a-statistical-guide-to-the-most-life?r=h787v&utm_medium=ios)
+
+- 1922494655 [You’re Getting ‘Screen Time’ Wrong](https://www.theatlantic.com/technology/2025/10/screen-time-television-internet/684659/)
+
+- 1925896610 [How AWS is losing the younger generation with complexity](https://www.theregister.com/2025/11/04/aws_genz_misery_nope/)
+
+- 1926472530 [The Democrats Have a New Winning Formula](https://open.substack.com/pub/derekthompson/p/the-democrats-new-formula-the-affordability?r=h787v&utm_medium=ios)
+
+- 1926473379 [Pleasure Is A Vital Sign](https://open.substack.com/pub/lizplosser/p/pleasure-is-a-vital-sign?r=h787v&utm_medium=ios)
+
