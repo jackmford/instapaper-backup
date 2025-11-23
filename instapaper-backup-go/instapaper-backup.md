@@ -1216,3 +1216,129 @@
 
 - 1926473379 [Pleasure Is A Vital Sign](https://open.substack.com/pub/lizplosser/p/pleasure-is-a-vital-sign?r=h787v&utm_medium=ios)
 
+- 1934425721 [Seiko 5 Automatic Black Dial Stainless Steel Men's Watch SNXS79K1](https://www.jomashop.com/seiko-automatic-mens-watch-snxs79.html)
+
+- 1934422051 [The Top 10 Vintage Seiko Watches You Should Buy Now](https://www.fratellowatches.com/seiko-watches/top-vintage-seiko-watches/)
+
+- 1934420881 [#TBT Seiko 6309 Diver](https://www.fratellowatches.com/seiko-watches/tbt-seiko-6309-diver/)
+
+- 1932053036 [Niall Ferguson: The AI Boom Is a House of Cards](https://www.thefp.com/p/niall-ferguson-the-ai-boom-is-a-house-of-cards)
+
+- 1933345478 [An Exclusive Tour of Johnny Cash’s Private Recording Studio & Cabin](https://huckberry.com/journal/posts/johnny-cash-private-studio-tour)
+
+- 1932861476 [Peter Thiel: Capitalism Isn’t Working for Young People](https://www.thefp.com/p/peter-thiel-capitalism-isnt-working-for-young-people)
+
+- 1932859496 [Google boss Sundar Pichai warns 'no company immune' if AI bubble bursts](https://www.bbc.com/news/articles/cwy7vrd8k4eo)
+
+- 1932862264 [JPMorgan Vice Chair Daniel Pinto Says ‘Correction’ Coming for AI Valuations | PYMNTS.com](https://www.pymnts.com/news/artificial-intelligence/2025/jpmorgan-vice-chair-daniel-pinto-says-correction-coming-ai-valuations)
+
+- 1932915046 [Service Works Moleskin Part Timer Pants](https://huckberry.com/store/service-works/category/p/93195-moleskin-part-timer-pants)
+
+- 1932640519 [Flint and Tinder Recycled Cotton Headlands Rollneck Sweater](https://huckberry.com/store/flint-and-tinder/category/p/92093-recycled-cotton-headlands-rollneck-sweater)
+
+- 1932639512 [Flint and Tinder Mason Canvas Pant - HB Athletic Straight](https://huckberry.com/store/flint-and-tinder/category/p/86272-mason-pant)
+
+- 1932636631 [Cadence™ 5" Women's Compression Shorts - Black](https://banditrunning.com/products/cadence-eg-next-gen-5-compression-bottom-black)
+
+- 1932633769 [Cowgirl Grass - D.S. & DURGA](https://www.dsanddurga.com/products/cowgirl-grass-perfume)
+
+- 1932625966 [100% Cotton Oversized Mockneck Sweater | Gap](https://www.gap.com/browse/product.do?pid=850142032)
+
+- 1932625706 [CashSoft Crewneck Sweater | Gap](https://www.gap.com/browse/product.do?pid=820718162)
+
+- 1932625160 [Sundays Waffle Collection](https://wearneutralground.com/collections/sundays-waffle-collection)
+
+- 1932621798 [Early Riser Pima Cotton Short Set](https://wearneutralground.com/products/early-riser-pima-cotton-short-set)
+
+- 1932608688 [Running Supply](https://running.supply)
+
+- 1932612919 [Skull House Running Company](https://skullhouserunning.com/)
+
+- 1932609738 [Westmore Full Zip Sherpa](https://balmoralsports.com/products/westmore-full-zip-sherpa-black)
+
+- 1932607159 [SwitchBack Trail Mitts | Hi-Warmth Edition | Black](https://bttgearco.com/products/switchback-trail-mitts-hi-warmth-hw1)
+
+- 1932605891 [The Winter Running Gear Guide by a Guy From Buffalo](https://substack.com/home/post/p-176203494?source=queue)
+
+- 1932605117 [KA_YO_Prototype WINDBREAKER JKT REFLECTIVE | Outdoor at ka-yo.com | KA-YO | KAYO](https://www.ka-yo.com/us/en/p/ka-yo-prototype-1/windbreaker-jkt-reflective-1)
+
+- 1932603733 [WOOL SHAG SWEATER | gnuhr](https://www.gnuhr.com/products/wool-shag-sweater?variant=6)
+
+- 1932576099 [Men's 90s Straight Jean | Men's Bottoms | Abercrombie.com](https://www.abercrombie.com/shop/us/p/90s-straight-jean-57520912)
+
+- 1932575476 [The Earl in Midnight Cowhide - Men's Roper Boot | Tecovas](https://www.tecovas.com/products/the-earl?color=midnight-cowhide)
+
+- 1932574638 [Curb Chain Bracelet - Jewelry | Mejuri](https://mejuri.com/products/5mm-curb-chain-bracelet)
+
+- 1927129940 [AI Turns Brain Scans Into Full Sentences and It’s Eerie To Say The Least](https://www.zmescience.com/future/ai-turns-brain-scans-into-full-sentences-and-its-eerie-to-say-the-least/)
+
+- 1930809460 [Leonard Morton (@leonardmorton)](https://substack.com/@leonardmorton/note/c-177010938?r=h787v&utm_medium=ios)
+
+- 1930983277 [Andy Squyres (@andysquyres)](https://substack.com/@andysquyres/note/c-177312900?r=h787v&utm_medium=ios)
+
+- 1930982954 [Seaxan (@seaxan)](https://substack.com/@seaxan/note/c-172837199?r=h787v&utm_medium=ios)
+
+- 1931450815 [Varnika (@wluvv)](https://substack.com/@wluvv/note/c-177500350?r=h787v&utm_medium=ios)
+
+- 1932519066 [Leonard Morton (@leonardmorton)](https://substack.com/@leonardmorton/note/c-178178947?r=h787v&utm_medium=ios)
+
+- 1932054726 [The fate of “small” open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
+
+- 1927130033 [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/)
+
+- 1892678178 [A PM's Guide to AI Agent Architecture: Why Capability Doesn't Equal Adoption](https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture)
+
+- 1902886551 [Why we built the Responses API](https://developers.openai.com/blog/responses-api/)
+
+- 1903530611 [How Google’s dev tools manager makes AI coding work | TechCrunch](https://techcrunch.com/2025/09/23/how-googles-dev-tools-manager-makes-ai-coding-work/)
+
+- 1906959131 [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+
+- 1906959361 [Why Evangelicalism Is Built for TikTok](https://www.thefp.com/p/why-evangelicalism-is-built-for-tiktok)
+
+- 1907747241 [Individuals matter](https://danluu.com/people-matter/?utm_source=tldrnewsletter)
+
+- 1912461833 [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
+
+- 1914453967 [Aerie and Refy killed it this week.](https://open.substack.com/pub/ingoodco/p/aerie-and-refy-killed-it-this-week?r=h787v&utm_medium=ios)
+
+- 1916094296 [Why AI Is Not a Bubble*](https://open.substack.com/pub/derekthompson/p/why-ai-is-not-a-bubble?r=h787v&utm_medium=ios)
+
+- 1916251254 [The Epidemic of Wasted Talent](https://open.substack.com/pub/thestillwandering/p/the-epidemic-of-wasted-talent?r=h787v&utm_medium=ios)
+
+- 1917142229 [Jenn Eats Goood: Healthy and Affordable Recipes](https://jenneatsgoood.com/)
+
+- 1917147701 [Jackson Dahl (@jdahl)](https://substack.com/@jdahl/note/c-161525699?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1917211744 [Tweet from Wall St Engine](https://x.com/wallstengine/status/1979172991335354616)
+
+- 1917211974 [Tweet from Mads](https://x.com/MadsPosting/status/1979168711979254232)
+
+- 1917469773 [Tweet from sharan ⚡️](https://x.com/sjhangiani12/status/1979212628820902339)
+
+- 1917514622 [Hogeon (@hogeon)](https://substack.com/@hogeon/note/c-167505314?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1917706274 [Jordan Miller (@jordanmiller3)](https://substack.com/@jordanmiller3/note/c-159968481?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1918319913 [Finding the Best Sleep Tracker](https://karpathy.bearblog.dev/finding-the-best-sleep-tracker/)
+
+- 1919182408 [Tweet from sophie](https://x.com/netcapgirl/status/1980750276773413177)
+
+- 1919189249 [Tweet from anti-owl crusader](https://x.com/allgarbled/status/1980810974388244813)
+
+- 1919299859 [Letter to a Young Person Worrying About AI](https://commoncog.com/letter-to-a-young-person-worrying-about-ai/)
+
+- 1920934872 [The Martini Service (@themartiniservice)](https://substack.com/@themartiniservice/note/c-170120153?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1921930189 [Tweet from Ossy Vincent](https://x.com/ossynoya/status/1982752241741390142)
+
+- 1922494596 [Are we living in a golden age of stupidity?](https://www.theguardian.com/technology/2025/oct/18/are-we-living-in-a-golden-age-of-stupidity-technology)
+
+- 1929648067 [Are we living in a stupidogenic society?](https://substack.nomoremarking.com/p/are-we-living-in-a-stupidogenic-society)
+
+- 1929648126 [Half a billion young people will be obese or overweight by 2030, report finds](https://www.theguardian.com/society/2025/may/20/young-people-obesity-2030-report)
+
+- 1930241151 [Vertical Integration is the Only Thing That Matters](https://becca.ooo/blog/vertical-integration/)
+
+- 1930257160 [30 Days, 8 Cities, 1 Question: Where Did American Prosperity Go?](https://open.substack.com/pub/kyla/p/30-days-9-cities-1-question-where?r=h787v&utm_medium=ios)
+
