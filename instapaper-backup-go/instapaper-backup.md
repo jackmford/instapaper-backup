@@ -1342,3 +1342,11 @@
 
 - 1930257160 [30 Days, 8 Cities, 1 Question: Where Did American Prosperity Go?](https://open.substack.com/pub/kyla/p/30-days-9-cities-1-question-where?r=h787v&utm_medium=ios)
 
+- 1939459950 [Postcards: The Maker Hotel](https://open.substack.com/pub/willdefries/p/postcards-the-maker-hotel?r=h787v&utm_medium=ios)
+
+- 1939497640 [SRPK29](https://seikousa.com/products/srpk29)
+
+- 1939255330 [SBGA413 | Grand Seiko](https://www.grand-seiko.com/us-en/collections/sbga413g)
+
+- 1939255238 [SBGA211 | Grand Seiko](https://www.grand-seiko.com/us-en/collections/sbga211g)
+
