@@ -1354,3 +1354,25 @@
 
 - 1942402601 [Charcoal Cloudloom Cotton Wool Romeo Pant - Buck Mason- Modern American Classics](https://www.buckmason.com/products/cloudloom-cotton-wool-romeo-pant)
 
+- 1947185438 [Marled Rollneck In Merino Wool](https://www.alexmill.com/products/marled-rollneck-in-merino-wool-in-marled-cedar)
+
+- 1945398247 [Eight Sleep | Jet Lag](https://www.eightsleep.com/product/jet-lag/)
+
+- 1932572947 [Towards interplanetary QUIC traffic](https://ochagavia.nl/blog/towards-interplanetary-quic-traffic/)
+
+- 1932859432 [What Good Execution Looks Like](https://yusufaytas.com/what-good-execution-looks-like/)
+
+- 1935004492 [Ancient Wisdom: Warren Buffett at 95](https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cudGhlZnAuY29tL3AvYW5jaWVudC13aXNkb20td2FycmVuLWJ1ZmZldHQtYXQtOTU_dXRtX2NhbXBhaWduPWVtYWlsLXBvc3Qmcj1oNzg3diZ0b2tlbj1leUoxYzJWeVgybGtJam95T0RnNU1EY3hOU3dpY0c5emRGOXBaQ0k2TVRjNU5EWTNNakEyTENKcFlYUWlPakUzTmpNNU1UQTNORGNzSW1WNGNDSTZNVGMyTmpVd01qYzBOeXdpYVhOeklqb2ljSFZpTFRJMk1ETTBOeUlzSW5OMVlpSTZJbkJ2YzNRdGNtVmhZM1JwYjI0aWZRLkRsR2xvVGdHN0Z0UThvTlI4Nk54WV85QzlibzFHQWdMZ2FEYlFselhxOTgiLCJwIjoxNzk0NjcyMDYsInMiOjI2MDM0NywiZiI6dHJ1ZSwidSI6Mjg4OTA3MTUsImlhdCI6MTc2MzkxMDc0NywiZXhwIjoyMDc5NDg2NzQ3LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.r7UEClqmf9CpboS2M1mcxT-KpKnYG-9ddVKMgv-g9P4)
+
+- 1936439273 [Notes on Boredom](https://lindynewsletter.beehiiv.com/p/notes-on-boredom)
+
+- 1937983525 [The History of Hiking Boots](https://open.substack.com/pub/vctnson/p/history-of-hiking-boots?r=h787v&utm_medium=ios)
+
+- 1939461942 [Six billion reasons to cheer for Shopify](https://world.hey.com/dhh/six-billion-reasons-to-cheer-for-shopify-55720846)
+
+- 1872226434 [Writing a good design document](https://grantslatton.com/how-to-design-document?utm_source=tldrnewsletter)
+
+- 1896450847 [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change: Reilly, Tanya: 9781098118730: Amazon.com: Books](https://www.amazon.com/Staff-Engineers-Path-Individual-Contributors/dp/1098118731)
+
+- 1895597223 [Technical Tubing](https://open.substack.com/pub/flylab/p/technical-tubing?r=h787v&utm_medium=ios)
+
