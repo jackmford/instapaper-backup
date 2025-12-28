@@ -1376,3 +1376,47 @@
 
 - 1895597223 [Technical Tubing](https://open.substack.com/pub/flylab/p/technical-tubing?r=h787v&utm_medium=ios)
 
+- 1951299361 [Hand Forged Food Prep Knives — Lost Planet Forge](https://www.lostplanetforge.com/food-prep)
+
+- 1946777704 [A short-seller who bet against iRobot for a decade unpacks how he identifies bearish targets](https://www.businessinsider.com/irobot-bankruptcy-irbt-stock-short-seller-spruce-point-roomba-vacuum-2025-12)
+
+- 1947009791 [Companies Are Desperately Seeking ‘Storytellers’](https://www.wsj.com/articles/companies-are-desperately-seeking-storytellers-7b79f54e)
+
+- 1949033236 [A Long Distance Life with David Coggins](https://substack.com/home/post/p-176094912)
+
+- 1950318367 [Henrys Mens](https://www.shopneighbour.com/collections/henrys-mens)
+
+- 1950315456 [Boxier Tubular Trash Tee — Everybody.World](https://everybody.world/products/boxier-tubular-trash-tee)
+
+- 1950308292 [Vinton Watch | Shinola](https://www.shinola.com/products/vinton-watch-black)
+
+- 1950308151 [Runwell Watch | Shinola](https://www.shinola.com/products/runwell-watch-white-gold-brown-leather)
+
+- 1950306905 [OLYMPIA SII](https://www.lorierwatches.com/products/olympia-sii)
+
+- 1949026967 [Heidarvatn, Iceland](https://www.heidarvatn.fish)
+
+- 1949022891 [Les Prés d'Eugénie ***** - SITE OFFICIEL - Landes - FRANCE](https://lespresdeugenie.com/en/)
+
+- 1949016019 [Midnight Chunky Cord Full Saddle Chino - Buck Mason- Modern American Classics](https://www.buckmason.com/products/midnight-chunky-cord-full-saddle-chino)
+
+- 1948828217 [The GSC Gift Guide](https://open.substack.com/pub/generalsportclub/p/the-gsc-gift-guide?r=h787v&utm_medium=ios&shareImageVariant=overlay)
+
+- 1948827818 [Italian Garden Clogs in Olive Green](https://gardenheir.com/products/italian-garden-clogs-in-olive-green)
+
+- 1948826970 [Deck Vest - Faded Olive](https://www.wythe.com/products/deck-vest-faded-olive)
+
+- 1948826520 [Mount - Brown Reversible Boucle Wool Overshirt](https://waxlondon.com/products/mount-brown-reversible-bobble-wool-overshirt)
+
+- 1948825092 [Daily Brief - EPLX840 — 1733](https://www.seventeenthirtythree.com/shop/p/daily-brief-eplx840)
+
+- 1948824092 [2-Pack Short Sleeve Pocket Tee in Oatmeal](https://www.brooklyn-tailors.com/products/2-pack-short-sleeve-pocket-tee-in-oatmeal)
+
+- 1948823605 [#62 Kitchen Knife, Medium](https://ameico.com/products/anseong-daejanggan-62-kitchen-knife)
+
+- 1948822282 [Flats Hat](https://forisoutdoors.com/products/flats-hat)
+
+- 1948813643 [Tadafusa Hocho Kobo HK-4 Gyuto 210mm](https://knifewear.com/en-us/products/tadafusa-hocho-kobo-gyuto-210mm-hk-4)
+
+- 1948378192 [Glacial Styling Bundle](https://www.highland.style/products/glacial-styling-bundle)
+
