@@ -1420,3 +1420,17 @@
 
 - 1948378192 [Glacial Styling Bundle](https://www.highland.style/products/glacial-styling-bundle)
 
+- 1947437654 [A Blueprint for Safer, Quieter Streets in NYC](https://open.substack.com/pub/nycuriosity/p/low-traffic-neighborhoods?r=h787v&utm_medium=ios&shareImageVariant=overlay)
+
+- 1950761356 [Keeper 2,000 lbs. Articulated E-Track Fitting 47802 - The Home Depot](https://www.homedepot.com/p/Keeper-2-000-lbs-Articulated-E-Track-Fitting-47802/207097649)
+
+- 1952154920 [ROSCO 1/4 ZIP SWEATER - MOONSTRUCK BLENDED TECH COTTON EXPLODED THERMA](https://18east.co/products/rosco-collared-thermal-moonstruck)
+
+- 1952146691 [Down Coach Jacket](https://huckberry.com/store/taion/category/p/93115-down-coach-jacket)
+
+- 1951753012 [Petit Pave Flora Ring in Ruby](https://arielleratner.com/products/petit-pave-flora-ring)
+
+- 1951596569 [Meet Hulken®️ Bag, Your New BFF](https://hulken.com/products/hulken-black)
+
+- 1951594962 [Wonder Oven](https://fromourplace.com/products/wonder-oven)
+
