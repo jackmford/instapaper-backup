@@ -1434,3 +1434,89 @@
 
 - 1951594962 [Wonder Oven](https://fromourplace.com/products/wonder-oven)
 
+- 1957796921 [17 Soul-Enlivening Brands That Make Getting Dressed for Work Easy](https://www.gq.com/story/where-to-buy-work-clothes)
+
+- 1956662709 [MTTR Is (Still) Lying to You](https://resilienceinsoftware.org/news/1157532)
+
+- 1903744876 [Empowering Netflix Engineers with Incident Management](https://netflixtechblog.com/empowering-netflix-engineers-with-incident-management-ebb967871de4)
+
+- 1904196245 [Unlocking Investment Returns with Growth and Inflation Dynamics | Oboe](https://www.oboe.fyi/courses/unlocking-investment-returns-with-growth-and-inflation-dynamics-pooxjp40)
+
+- 1915653475 [Josh Kushner, Thrive, and the New World](https://joincolossus.com/article/joshua-kushner-thrive-new-world/)
+
+- 1918252443 [Leaving the Cloud — Cloud Computing Isn’t For Everyone](https://basecamp.com/cloud-exit/)
+
+- 1918334715 [Links | near.blog](https://near.blog/links/)
+
+- 1918334111 [Nabeel S. Qureshi](http://nabeelqu.co)
+
+- 1918339324 [Salary Negotiation: Make More Money, Be More Valued | Kalzumeus Software](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+
+- 1920154359 [OpenAI Readies Itself for Its Facebook Era](https://www.theinformation.com/articles/openai-readies-facebook-era)
+
+- 1920871272 [Tweet from Hayes](https://x.com/neatprompts/status/1982345716489162916)
+
+- 1926584997 [Hogeon (@hogeon)](https://substack.com/@hogeon/note/c-173807094?r=h787v&utm_medium=ios)
+
+- 1930627840 [laura (@lauragutierrezg)](https://substack.com/@lauragutierrezg/note/c-175801982?r=h787v&utm_medium=ios)
+
+- 1930628160 [Ben Sims (@simsben1)](https://substack.com/@simsben1/note/c-176425266?r=h787v&utm_medium=ios)
+
+- 1930629035 [Strategy Shots (@strategyshots)](https://substack.com/@strategyshots/note/c-176781864?r=h787v&utm_medium=ios)
+
+- 1930697672 [The Vulgar Image by Dean Kissick](https://spikeartmagazine.com/)
+
+- 1932573067 [Human behavior is an intuition-pump for AI risk - Inverted Passion](https://invertedpassion.com/human-behavior-is-an-intuition-pump-for-ai-risk/)
+
+- 1932861497 [Is Gen Z “utterly screwed”?](https://www.vox.com/politics/468772/generation-z-ai-boomers-millennials)
+
+- 1933331692 [Trump's AI Policy Is Indefensible](https://open.substack.com/pub/derekthompson/p/the-ai-hypocrisy-at-the-heart-of?r=h787v&utm_medium=ios)
+
+- 1938664516 [Why people like your quick bullshit takes better than your high-effort posts — LessWrong](https://www.lesswrong.com/posts/DiiLDbHxbrHLAyXaq/why-people-like-your-quick-bullshit-takes-better-than-your)
+
+- 1939462402 [November 2025](https://www.thepaintedporch.com/collections/november-2025)
+
+- 1943916463 [The 40 Famous Classics You're Allowed to Skip (And Why Everyone Secretly Agrees)](https://open.substack.com/pub/literaryfancy/p/i-read-50-classics-part-2-the-other?r=h787v&utm_medium=ios)
+
+- 1943917573 [Christopher Flynn (@vintagetrouts)](https://substack.com/@vintagetrouts/note/c-183542641?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1943917643 [Skylar Renslow (@skylarrenslow)](https://substack.com/@skylarrenslow/note/c-186418245?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1943920625 [What To Buy That Improves Quality of Life](https://open.substack.com/pub/ryanlpeterman/p/what-to-buy-that-improves-quality?r=h787v&utm_medium=ios)
+
+- 1944592882 [Hatching the Automobile’s Future in a Cloistered Los Angeles Lab](https://www.nytimes.com/2025/12/11/business/ford-electric-vehicles-china.html)
+
+- 1944631096 [vāneçka (@vanyabagaev)](https://substack.com/@vanyabagaev/note/c-180806083?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1944820351 [Have Yourself a Preppy Little Christmas](https://open.substack.com/pub/theprepclub/p/have-yourself-a-preppy-little-christmas?r=h787v&utm_medium=ios)
+
+- 1944820831 [Getting Your Money's Worth](https://open.substack.com/pub/themidletter/p/getting-your-moneys-worth?r=h787v&utm_medium=ios)
+
+- 1945054273 [Andrew Flattery (@andyflattery)](https://substack.com/@andyflattery/note/c-187198355?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1945054372 [unusual poetry (@unusualpoetry)](https://substack.com/@unusualpoetry/note/c-187349109?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1945054767 [Composition (@composition)](https://substack.com/@composition/note/c-182738367?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1945054846 [Composition (@composition)](https://substack.com/@composition/note/c-185681695?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1945365967 [Hogeon (@hogeon)](https://substack.com/@hogeon/note/c-187638991?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1945397119 [The Print Edition is Here](https://open.substack.com/pub/centraldivision/p/the-print-edition-is-here?r=h787v&utm_medium=ios)
+
+- 1945434993 [Hogeon (@hogeon)](https://substack.com/@hogeon/note/c-187326485?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1945865275 [AISRE: It is time for AI Site Reliability Engineering](https://medium.com/ing-blog/aisre-it-is-time-for-ai-site-reliability-engineering-6315f5890542)
+
+- 1947011834 [The Castle with All-You-Can-Drink Guinness](https://open.substack.com/pub/firstclassjerk/p/the-castle-with-all-you-can-drink?r=h787v&utm_medium=ios&shareImageVariant=overlay)
+
+- 1947033928 [Some thoughts on "Head of Narrative"](https://open.substack.com/pub/jackraines/p/some-thoughts-on-head-of-narrative?r=h787v&utm_medium=ios&shareImageVariant=overlay)
+
+- 1947658893 [The definitive collection|||Buffett in his own words](https://buffett.cnbc.com/warren-buffett-archive/)
+
+- 1947664289 [2025 Grift Guide](https://open.substack.com/pub/thescoop1/p/2025-grift-guide?r=h787v&utm_medium=ios&shareImageVariant=overlay)
+
+- 1955545915 [Washed Black Craftsman Corduroy Ford Standard Jean - Buck Mason- Modern American Classics](https://www.buckmason.com/products/washed-black-craftsman-corduroy-ford-standard-jean)
+
+- 1951300749 [Login • Instagram](https://www.instagram.com/nowdesignsstudio/)
+
