@@ -1520,3 +1520,9 @@
 
 - 1951300749 [Login • Instagram](https://www.instagram.com/nowdesignsstudio/)
 
+- 1961672093 [coolstuff.nyc](https://www.coolstuff.nyc/)
+
+- 1961667730 [Dolly’s Swing & Dive (@dollysbk) • Instagram photos and videos](https://www.instagram.com/dollysbk/)
+
+- 1961660915 [Lino 10oz Mug, White](https://www.notneutral.com/products/lino-10oz-mug-white)
+
