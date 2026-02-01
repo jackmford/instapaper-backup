@@ -1528,3 +1528,7 @@
 
 - 1966578743 [Men's Ankle Deck Boot](https://xtratuf.com/products/22734)
 
+- 1967968774 [Resy | Right This Way](https://resy.com/link?venue_id=47399)
+
+- 1967955741 [Bathhouse Williamsburg (Brooklyn) | Sauna & More](https://www.abathhouse.com/williamsburg)
+
