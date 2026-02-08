@@ -1532,3 +1532,33 @@
 
 - 1967955741 [Bathhouse Williamsburg (Brooklyn) | Sauna & More](https://www.abathhouse.com/williamsburg)
 
+- 1945054623 [Neo Kim (@systemdesignone)](https://substack.com/@systemdesignone/note/c-187463091?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1945369642 [It is seldom wise to tell all](https://open.substack.com/pub/catherineshannon/p/it-is-seldom-wise-to-tell-all?r=h787v&utm_medium=ios)
+
+- 1947023696 [Operating well – what I learned at Stripe](https://open.substack.com/pub/samgerstenzang/p/operating-well-what-i-learned-at?r=h787v&utm_medium=ios&shareImageVariant=overlay)
+
+- 1947665765 [Prospect Heights - Brooklyn](https://open.substack.com/pub/theneighborhoods/p/prospect-heights-brooklyn?r=h787v&utm_medium=ios&shareImageVariant=overlay)
+
+- 1949338530 [Lindy Effect in Investing](https://open.substack.com/pub/marketsentiment/p/lindy-effect-in-investing-17b?r=h787v&utm_medium=ios&shareImageVariant=overlay)
+
+- 1950315517 [The Best Garments of 2025](https://open.substack.com/pub/igrant/p/the-best-garments-of-2025?r=h787v&utm_medium=ios&shareImageVariant=overlay)
+
+- 1950316077 [Clothes Line Saga 005](https://open.substack.com/pub/igrant/p/clothes-line-saga-005?r=h787v&utm_medium=ios&shareImageVariant=overlay)
+
+- 1951192910 [Hogeon (@hogeon)](https://substack.com/@hogeon/note/c-192001425?r=h787v&utm_medium=ios&utm_source=notes-share-action)
+
+- 1952149845 [Six Things I Learned About Life Selling Men’s Clothes](https://us.drakes.com/blogs/news/six-things-i-learned-about-life-selling-men-s-clothes)
+
+- 1955684576 [Arthur Brooks: Happiness Lessons from a Miserable Wretch](https://www.thefp.com/p/arthur-brooks-happiness-lessons-from-a-miserable-wretch)
+
+- 1956120396 [At the Ballet, at the Movies, on the Sofa](https://www.intotheindoorsjournal.com/p/at-the-ballet-at-the-movies-on-the?publication_id=2776591&utm_campaign=email-post-title&r=h787v&utm_medium=email)
+
+- 1975009692 [American Flag Key Fob (Classic Navy)](https://www.smathersandbranson.com/products/american-flag-navy-needlepoint-key-fob)
+
+- 1975009446 [Shea Butter Hand Cream | L'Occitane en Provence](https://www.loccitane.com/en-us/shea-butter-hand-cream-01MA150K26.html)
+
+- 1956964352 [Why My 2026 Resolution Is to Start Drinking Again](https://www.gq.com/story/why-my-2026-resolution-is-to-start-drinking-again)
+
+- 1968298602 [An A.I. Pioneer Warns the Tech ‘Herd’ Is Marching Into a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)
+
