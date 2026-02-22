@@ -1562,3 +1562,7 @@
 
 - 1968298602 [An A.I. Pioneer Warns the Tech ‘Herd’ Is Marching Into a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)
 
+- 1980978924 [Pa'lante Packs – Pa'lante Packs](https://palantepacks.com/)
+
+- 1980422469 [25 Jewelry Brands Every Budding Jewelry Guy Should Know](https://www.gq.com/story/best-mens-jewelry-brands)
+
