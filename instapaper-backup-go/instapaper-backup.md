@@ -1566,3 +1566,11 @@
 
 - 1980422469 [25 Jewelry Brands Every Budding Jewelry Guy Should Know](https://www.gq.com/story/best-mens-jewelry-brands)
 
+- 1985418569 [The BIG 2026 IYKYK Spring Product List](https://open.substack.com/pub/iknow/p/iykyk-spring-product-list-1?r=h787v&utm_medium=ios)
+
+- 1974284377 [Compaction](https://platform.claude.com/docs/en/build-with-claude/compaction)
+
+- 1980258795 [Rec League](https://recleague.com/?trk=feed_main-feed-card_reshare_feed-article-content)
+
+- 1973714292 [Tweet from Claude](https://x.com/claudeai/status/2019071113741906403?s=20)
+
